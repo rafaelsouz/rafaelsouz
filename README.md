@@ -54,7 +54,6 @@
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-<br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
