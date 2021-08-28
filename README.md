@@ -1,6 +1,5 @@
 ## Olá pessoas, sejam muito bem vindo ao meu perfil 👋
 
-
 <h3>👨 &nbsp; Sobre mim</h3>
 
 - 🤔 &nbsp; Um explorador de novas tecnologias e um amante de código limpo.
@@ -63,4 +62,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:devrafaelsouza@gmail.com)](mailto:devrafaelsouza@gmail.com)
 [![GitHub Rafael Souza](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaelsouz)
 
-
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/rafaelsouz/rafaelsouz"></a> amantes da tecnologia passaram por aqui o/ 
+</p>
