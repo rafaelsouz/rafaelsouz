@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Um explorador de novas tecnologias e um amante de código limpo.
 - 🔭 &nbsp; Sou Bacharel em Ciência da Computação.
-- 💼 &nbsp; Trabalho como Desenvolvedor Front-end Pleno na <a href="https://www.ntendencia.com.br/" target="_blank" rel="noopener noreferrer">Nova Tendência</a>.
+- 💼 &nbsp; Trabalho como Desenvolvedor Front-end Pleno na <a href="https://www.mercadolivre.com.br" target="_blank" rel="noopener noreferrer">Mercado Livre</a>.
 - 🌱 &nbsp; Atualmente estou mergulhando de cabeça em React e todo seu ecossistema. 
 
 <div>
