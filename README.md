@@ -1,11 +1,11 @@
-## Olá pessoas, sejam muito bem vindo ao meu perfil 👋
+## Hello everyone, welcome to my profile 👋 👋
 
-<h3>👨 &nbsp; Sobre mim</h3>
+<h3>👨 &nbsp; About me</h3>
 
-- 🤔 &nbsp; Um explorador de novas tecnologias e um amante de código limpo.
-- 🔭 &nbsp; Sou Bacharel em Ciência da Computação.
-- 💼 &nbsp; Trabalho como Engenheiro de software na <a href="https://www.mercadolivre.com.br" target="_blank" rel="noopener noreferrer">Mercado Livre</a>.
-- 🌱 &nbsp; Atualmente estou mergulhando de cabeça em React e todo seu ecossistema. 
+- 🤔 &nbsp; An explorer of new technologies and a lover of clean code.
+- 🔭 &nbsp; I hold a Bachelor’s degree in Computer Science.
+- 💼 &nbsp; I work as a Software Engineer at <a href="https://www.mercadolivre.com.br" target="_blank" rel="noopener noreferrer">Mercado Livre</a>.
+- 🌱 &nbsp; I have over 6 years of experience in web and mobile development using React and React Native.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsouz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
@@ -13,9 +13,9 @@
 </div>
 
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
-**Aplicações e Dados**
+**Applications and Data**
 
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -35,18 +35,18 @@
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Utilidades**
+**Utils**
 
   ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-**Versionamento**
+**Versioning**
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![XCODE](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
@@ -55,12 +55,12 @@
   ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: Rafael Souza](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelsouz/)](https://www.linkedin.com/in/rafaelsouz/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:devrafaelsouza@gmail.com)](mailto:devrafaelsouza@gmail.com)
 [![GitHub Rafael Souza](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaelsouz)
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/rafaelsouz/rafaelsouz"></a> amantes da tecnologia passaram por aqui o/ 
+  <a href="#"><img src="https://badges.pufler.dev/visits/rafaelsouz/rafaelsouz"></a> Technology enthusiasts have passed through here o/ 
 </p>
