@@ -62,5 +62,9 @@
 [![GitHub Rafael Souza](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaelsouz)
 
 <p align="center">
-  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Frafaelsouz&label=&icon=github&color=%23000&message=&style=flat&tz=UTC"> Technology enthusiasts have passed through here o/ 
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Frafaelsouz&label=&icon=github&color=%23000&message=&style=for-the-badge&tz=UTC" />
+  <br />
+  Technology enthusiasts have passed through here o/
 </p>
+
+
